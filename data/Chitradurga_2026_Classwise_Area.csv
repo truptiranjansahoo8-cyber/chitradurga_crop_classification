@@ -1,0 +1,6 @@
+system:index,Area_Hectares,Area_SqKm,Class,Class_name,.geo
+0,60085.5002,600.855002,1,Arecanut,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,23274.24191,232.7424191,2,Coconut,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,291604.0992,2916.040992,3,Maize,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,34177.51164,341.7751164,4,Others,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,61241.09601,612.4109601,5,Ragi,"{""type"":""MultiPoint"",""coordinates"":[]}"

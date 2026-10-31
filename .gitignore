@@ -1,0 +1,14 @@
+# Credentials — never commit
+keys/
+*.json
+!.streamlit/*.json
+
+# Python / environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+.streamlit/secrets.toml
